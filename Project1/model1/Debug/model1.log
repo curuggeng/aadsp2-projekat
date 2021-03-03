@@ -1,0 +1,7 @@
+﻿  WAVheader.cpp
+  main.cpp
+c:\users\pc user\desktop\dsp2\v6\project1\model1\main.cpp(369): warning C4244: '=': conversion from 'DSPfract' to 'DSPint', possible loss of data
+c:\users\pc user\desktop\dsp2\v6\project1\model1\main.cpp(377): warning C4244: '=': conversion from 'DSPfract' to 'DSPint', possible loss of data
+  Generating Code...
+  model1.vcxproj -> C:\Users\PC User\Desktop\DSP2\v6\Project1\Debug\model1.exe
+  model1.vcxproj -> C:\Users\PC User\Desktop\DSP2\v6\Project1\Debug\model1.pdb (Partial PDB)
